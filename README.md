@@ -1,1 +1,1 @@
-My First readme. Tips
+My First readme.
